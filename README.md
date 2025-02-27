@@ -1,3 +1,3 @@
 # Vs_codium
 
-##vscodium setting.json file
+## vscodium setting.json file
