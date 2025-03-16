@@ -59,7 +59,7 @@
     "workbench.fontAliasing": "antialiased",
     "titleBar.fontWeight": "bold",
     "workbench.navigationControl.enabled": false,
-    "window.commandCenter": false, // This option disables the command center text
+    "window.commandCenter": false,
     "workbench.sideBar.fontWeight": "medium",
     "notebook.cellExecutionTimeVerbosity": "verbose",
     "notebook.cellFocusIndicator": "border",
