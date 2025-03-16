@@ -1,3 +1,3 @@
-# Vs_codium
+# Codeium JSON
 
-## vscodium setting.json file
+- This repo consists of .json file for codeium setup. 
